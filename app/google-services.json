@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "454955551709",
+    "project_id": "sprintv2-75dd9",
+    "storage_bucket": "sprintv2-75dd9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:454955551709:android:a171b3348e627670940434",
+        "android_client_info": {
+          "package_name": "com.example.sprintv2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "454955551709-mi0ninr6nmm02e8vdagudd3hni9jd548.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALEqsHbN7F1999-1XMDgU4HPkXnVEvsKk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "454955551709-mi0ninr6nmm02e8vdagudd3hni9jd548.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
